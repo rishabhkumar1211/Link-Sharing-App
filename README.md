@@ -79,3 +79,15 @@ A modern React application that allows users to create and share their important
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+## Stats
+
+<!-- BADGES:START -->
+<!-- BADGES:END -->
+
+
+## Changelog
+
+<!-- CHANGELOG:START -->
+<!-- CHANGELOG:END -->
